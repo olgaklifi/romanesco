@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: romanesco
+Version: 0.2
+Summary: A vanilla recurrent neural network (RNN) language model
+Home-page: http://github.com/zurichnlp/romanesco
+Author: Samuel Läubli, Mathias Müller
+Author-email: laeubli@cl.uzh.ch, mmueller@cl.uzh.ch
+License: LGPL
+Description: UNKNOWN
+Platform: UNKNOWN
